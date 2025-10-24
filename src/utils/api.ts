@@ -70,3 +70,9 @@ export const createUser = (data: any) => {
   const body = { data };
   return makeJSONPost(url, body, { headers: {} });
 };
+
+export const createProfile = (data: any) => {
+  const url = `/api/profile`;
+  const body = { ...data };
+  return makeJSONPost(url, body, { headers: {} });
+};
