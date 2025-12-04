@@ -1,3 +1,28 @@
+#StockApp
+
+#Integrantes
+- Santiago Correa Marulanda
+- Andres Felipe Giraldo Yusti
+- Juan Sebastian Andraus
+
+### Usuarios para acceder
+
+Para acceder a la pagina y observar sus diferentes funcionalidades puede hacerlo al iniciar sesion con:
+
+CUENTA ADMIN:
+
+correo: admin@test.com
+
+contraseña: 123456
+
+CUENTA USER:
+
+correo: user@test.com
+
+contraseña: 123456
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
